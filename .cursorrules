@@ -1,0 +1,7 @@
+# Cursor rules for comfyui-kb
+#
+# Cursor automatically reads .cursorrules from the repo root.
+# All instructions for AI agents working in this repo live in AGENTS.md.
+# Read AGENTS.md first, then skills/comfy_local/skill.md.
+
+See AGENTS.md at the repo root for the full instructions. Read it before answering any question or authoring any workflow.

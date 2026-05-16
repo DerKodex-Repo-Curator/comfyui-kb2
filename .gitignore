@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Watcher daemon runtime state (do not commit)
+skills/comfy_local/state/
+*.pid
+*.log
+
+# Local environment overrides
+.env
+.env.local
+
+# Editor / OS detritus
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Watched outputs (large binary artifacts, not source)
+outputs_watched/
+outputs/
+
+# Local-only Claude/Cowork session caches (in case anyone clones into one)
+.claude/sessions/
+.claude/cache/
